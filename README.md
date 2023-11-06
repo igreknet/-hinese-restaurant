@@ -1,2 +1,2 @@
 # chinese-restaurant
-# Resposnive website built with bootstrap
+Responsive website built with bootstrap
